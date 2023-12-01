@@ -9,7 +9,7 @@ import TabItem from "./utils/TabItem";
 import HandShake from "@/public/svg/HandShake";
 import Puzzle from "@/public/svg/Puzzle";
 import People from "@/public/svg/People";
-import Compass from "@/public/svg/compass";
+import Compass from "@/public/svg/Compass";
 
 export default function Features() {
   const [tab, setTab] = useState<number>(1);
